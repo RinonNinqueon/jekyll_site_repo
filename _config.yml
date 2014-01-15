@@ -1,0 +1,9 @@
+name: Rinon Ninqueon Electronics
+destination: ./_site
+markdown: redcarpet
+relative_permalinks: true
+permalink: /:categories/:title/
+pagination: 15
+paginate_path : "/page:num"
+pygments: false
+encoding: utf-8
