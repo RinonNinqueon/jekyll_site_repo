@@ -12,7 +12,7 @@ categories: schematics
     </a>
   </li>
 </ul>
-[Схема и плата](http://github.com/RinonNinqueon/source/schematics/proteus/mosfet_switcher) в формате Proteus 7.10
+[Схема и плата](http://github.com/RinonNinqueon/source/tree/master/schematics/proteus/mosfet_switcher) в формате Proteus 7.10
 
 ## Распиновка
 * 1 - Вход
