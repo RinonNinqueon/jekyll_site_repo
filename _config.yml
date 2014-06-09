@@ -1,4 +1,4 @@
-name: Rinon Ninqueon Electronics
+name: Rinon Ninqueon
 destination: ./_site
 markdown: redcarpet
 relative_permalinks: true
