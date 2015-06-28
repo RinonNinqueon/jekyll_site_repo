@@ -1,0 +1,32 @@
+	ul.tmb	{
+        padding:0 0 0 0;
+        margin:0 0 0 0;
+		list-style:none;
+        margin-bottom:25px;
+		cursor: pointer;
+    }
+    li.tmb {
+        list-style:none;
+        margin-bottom:25px;
+		cursor: pointer;
+    }
+    img {
+        cursor: pointer;
+    }
+	#id_post {
+		border: 1px #e4e4e4 solid;
+		padding: 20px;
+		border-radius: 4px;
+		box-shadow: 0 0 6px #ccc;
+		margin-bottom: 20px;
+		margin-left: 0px;
+		padding-right: 10px;
+		width: 75%;
+	}
+	#id_border {
+		border: 1px #e4e4e4 solid;
+		padding: 10px;
+		border-radius: 4px;
+		box-shadow: 0 0 2px #AAA;
+		background-color:#F0F0F0;
+	}
