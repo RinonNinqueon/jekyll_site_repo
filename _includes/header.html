@@ -5,9 +5,6 @@
     <title>{{ site.name }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="{{ site.description }}">
-    <link href="/css/bootstrap.css" rel="stylesheet"/>
-	<link rel="stylesheet" href="/css/sticky.css" />
-	<link rel="stylesheet" href="/css/listnopoint.css" />
 	<link rel="shortcut icon" href="http://rinonninqueon.github.io/favicon.ico" type="image/x-icon" />
 	<link rel="icon" href="http://rinonninqueon.github.io/favicon.ico" type="image/x-icon" />
 	
@@ -29,6 +26,10 @@
 	<script src="/js/bootstrap.min.js"></script>
 	<script src="/js/popup.js"></script>
 	<script src="/js/audio.min.js"></script>
+	
+	<link rel="stylesheet" href="/css/bootstrap.css"/>
+	<link rel="stylesheet" href="/css/sticky.css" />
+	<link rel="stylesheet" href="/css/listnopoint.css" />
 
     <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
     <!--[if lt IE 9]>
@@ -57,6 +58,13 @@ ript>
   audiojs.events.ready(function() {
     var as = audiojs.createAll();
   });
+  jQuery(document).ready(function($) {
+  $('ul.nav li.dropdown, ul.nav li.dropdown-submenu').hover(function() {
+		$(this).find(' > .dropdown-menu').stop(true, true).delay(200).fadeIn();
+	}, function() {
+		$(this).find(' > .dropdown-menu').stop(true, true).delay(200).fadeOut();
+	});
+});
 </script>
     <div class="navbar navbar-inverse navbar-fixed-top">
 	  <div class="container">
@@ -64,6 +72,14 @@ ript>
           <ul class="nav navbar-nav">
 			<li><a href="/">Главная</a></li>
 			<li><a href="/schematics">Схемы</a></li>
+			<li class="dropdown" dropdown>
+				<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Переводы<span class="caret"></span></a>
+				<ul class="dropdown-menu">
+					<li class="dropdown-header"><a href="/translate">Переводы</a></li>
+					<li><a href="/translate/manga">Манга</a></li>
+					<li><a href="/translate/anime">Аниме</a></li>
+				</ul>
+			</li>
 			<li><a href="http://github.com/RinonNinqueon/source">Исходники</a></li>
 			<li><a href="/music">Музыка</a></li>
 			<li><a href="/video">Видео</a></li>
