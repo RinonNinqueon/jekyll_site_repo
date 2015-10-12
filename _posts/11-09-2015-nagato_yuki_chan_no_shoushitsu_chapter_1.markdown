@@ -2,7 +2,7 @@
 layout: post
 title:  "Манга 'Исчезновение Юки Нагато'"
 date:   2015-09-11 15:45:50
-categories: manga
+categories: [translate, manga]
 ---
 <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
       <div class="modal-dialog">
