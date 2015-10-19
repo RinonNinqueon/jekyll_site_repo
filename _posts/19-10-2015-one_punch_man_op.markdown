@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Опенинг к 'Yuru Yuri San☆Hai!'"
-date:   2015-10-10 15:45:50
+title:  "Опенинг к 'One Punch Man'"
+date:   2015-10-19 15:45:50
 categories: [translate, anime]
 ---
 <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
@@ -18,7 +18,7 @@ categories: [translate, anime]
 <div class="thumbnails">
 </div>
 
-### Nanamori Chu☆Goraku Bu (七森中☆ごらく部) &ndash; Chochocho! Yuru Yuri☆Capriccio!!! (ちょちょちょ！ゆるゆり☆かぷりっちょ!!!)
+### JAM Project &ndash; THE HERO !! ~Okoreru Kobushi ni Hi wo Tsukero~ (THE HERO !! ～怒れる拳に火をつけろ～)
 
 Перевод с японского --- Rinon Ninqueon<br>
 Редактура -- ждём<br>

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Опениг к 'Noragami Aragoto'"
+title:  "Опенинг к 'Noragami Aragoto'"
 date:   2015-10-11 15:45:50
 categories: [translate, anime]
 ---
@@ -18,11 +18,11 @@ categories: [translate, anime]
 <div class="thumbnails">
 </div>
 
-### THE ORAL CIGARETTES &ndash; "Kyouran Hey Kids!! (狂乱Hey Kids!!)
+### THE ORAL CIGARETTES &ndash; Kyouran Hey Kids!! (狂乱Hey Kids!!)
 
 Перевод с японского --- Rinon Ninqueon<br>
 Редактура -- ждём<br>
-Для <a href="http://vk.com/yukiosub">YukioSub</a><br>
+Для <a href="http://vk.com/asada_shire">Asada Shire</a><br>
 <hr>
 Ждём редактуры...<br>
 <br><p>Также можете заглянуть в <a href="https://github.com/RinonNinqueon/source/tree/master/translate">репозиторий</a>. Тут можете найти подробный разбор переводов.</p>
